@@ -1,3 +1,3 @@
-const name = "Sharon";
+const myName = "Sharon";
 const age = 30;
-console.log(`Hi! my name is ${name} and I am ${age} years old!`);
+console.log(`Hi! my name is ${myName} and I am ${age} years old!`);
